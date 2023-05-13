@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .upload {
+    margin-top: 2rem;
+  }
+  
+  .viewer {
+    margin-top: 2rem;
+  }
+  
+  .editor {
+    margin-top: 2rem;
+  }
+  
